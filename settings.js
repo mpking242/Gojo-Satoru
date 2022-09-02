@@ -31,7 +31,7 @@ global.sc = 'https://github.com/mpking242/Gojo-Satoru'
 global.myweb = 'https://chat.whatsapp.com/LejhXWCHwubJKeNQniqh15'
 global.packname = 'MP-KING..... SARRUI'
 global.author = 'MP KING'
-global.sessionName = 'emFRaG5DV0c='
+global.sessionName = 'YlN0NTRKNVA= '
 global.prefa = ['','!','.','🐦','🐤','♊']
 global.sp = '⭔'
 global.mess = {
